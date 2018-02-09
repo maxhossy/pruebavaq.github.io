@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.cg.com/index.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.cg.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/about.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/about.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/events.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.cg.com/phone/events.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/events.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/menu.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/menu.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/gallery.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/gallery.html"/>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_1150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_2150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_3150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_4150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_5150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_6150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_7150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_8150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_9150x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cg.com/images/gallery_10150x118.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.cg.com/chef.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/chef.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/news.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/news.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/contact.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/news-1.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/news-1.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/news-2.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/news-2.html"/>
+  </url>
+  <url>
+    <loc>http://www.cg.com/news-3.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.cg.com/tablet/news-3.html"/>
+  </url>
+</urlset>

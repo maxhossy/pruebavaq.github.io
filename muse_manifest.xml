@@ -1,0 +1,341 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cg.com" resolutions="1x" timestamp="1518167844237">
+  <folder name="css">
+    <file name="site_global.css" crc="4275521114"/>
+    <file name="master_a-master.css" crc="426957225" ref="news-2:index:chef:news:news-1:menu:about:gallery:news-3:contact:events"/>
+    <file name="news-2.css" crc="3851468366" ref="news-2"/>
+    <file name="index.css" crc="131094307" ref="index"/>
+    <file name="iefonts_index.css" crc="467170855" ref="index"/>
+    <file name="chef.css" crc="4289081898" ref="chef"/>
+    <file name="news.css" crc="4193084028" ref="news"/>
+    <file name="news-1.css" crc="3839833623" ref="news-1"/>
+    <file name="menu.css" crc="3840892990" ref="menu"/>
+    <file name="about.css" crc="4143919269" ref="about"/>
+    <file name="gallery.css" crc="479384220" ref="gallery"/>
+    <file name="news-3.css" crc="20874970" ref="news-3"/>
+    <file name="contact.css" crc="480914978" ref="contact"/>
+    <file name="iefonts_contact.css" crc="342241196" ref="contact"/>
+    <file name="events.css" crc="4146092563" ref="events"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>events:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>events"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u3869.php" crc="3952297152" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>events:tablet>index:tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3"/>
+    <file name="form-u2717.php" crc="101400001" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="tablet>gallery:gallery"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="tablet>gallery:gallery"/>
+    <file name="touchswipe.js" crc="4066113679" ref="tablet>gallery:gallery"/>
+    <file name="form-u3238.php" crc="288301439" ref="tablet>contact"/>
+    <file name="form-u553.php" crc="4047996520" ref="index"/>
+    <file name="form-u1731.php" crc="4190850002" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="your_logo.jpg" crc="364107259" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fgfg.jpg" crc="4236573342" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_1-u3842-fr.jpg" crc="3908219027" ref="phone>index"/>
+    <file name="menu_2-u3843-fr.jpg" crc="3908219027" ref="phone>index"/>
+    <file name="menu_3-u3844-fr.jpg" crc="3908219027" ref="phone>index"/>
+    <file name="menu_4-u3845-fr.jpg" crc="3908219027" ref="phone>index"/>
+    <file name="event_1.jpg" crc="4264472005" ref="phone>index:phone>events:tablet>index:tablet>events:index:events">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="event_2.jpg" crc="4264472005" ref="phone>index:phone>events:tablet>index:tablet>events:index:events">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_1.jpg" crc="48955231" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_2.jpg" crc="48955231" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_3.jpg" crc="48955231" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_slide_1-u4022-fr.jpg" crc="3809914120" ref="phone>events"/>
+    <file name="home_slide_1.jpg" crc="524992936" ref="tablet>index:index:about:events:menu:gallery:chef:news:contact:news-1:news-2:news-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_1.jpg" crc="59961478" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_2.jpg" crc="59961478" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_3.jpg" crc="59961478" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_4.jpg" crc="59961478" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_slide_1-u2771-fr.jpg" crc="4063850273" ref="tablet>about:tablet>menu:tablet>events:tablet>gallery:tablet>chef:tablet>news:tablet>news-1:tablet>news-2:tablet>news-3:tablet>contact"/>
+    <file name="menu_4-u2801-fr.jpg" crc="4219019833" ref="tablet>menu:menu"/>
+    <file name="menu_1-u2838-fr.jpg" crc="4219019833" ref="tablet>menu:menu"/>
+    <file name="menu_5.jpg" crc="110514265" ref="tablet>menu:menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="menu_6.jpg" crc="110514265" ref="tablet>menu:menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="menu_2-u2842-fr.jpg" crc="4219019833" ref="tablet>menu:menu"/>
+    <file name="menu_7.jpg" crc="110514265" ref="tablet>menu:menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="menu_8.jpg" crc="110514265" ref="tablet>menu:menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="menu_9.jpg" crc="110514265" ref="tablet>menu:menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="menu_3-u2850-fr.jpg" crc="4219019833" ref="tablet>menu:menu"/>
+    <file name="gallery_1.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="tablet>gallery:gallery"/>
+    <file name="gallery_2.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_3.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_4.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_5.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_6.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_7.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_8.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_9.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_10.jpg" crc="157898251" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_1132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_2132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_3132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_4132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_5132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_6132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_7132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_8132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_9132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_10132x104.jpg" crc="201809716" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>gallery:gallery"/>
+    <file name="team_1.jpg" crc="302697651" ref="tablet>chef:chef">
+      <caption webpage="chef" alt=""/>
+      <caption webpage="chef" alt=""/>
+    </file>
+    <file name="team_2.jpg" crc="302697651" ref="tablet>chef:chef">
+      <caption webpage="chef" alt=""/>
+    </file>
+    <file name="team_3.jpg" crc="302697651" ref="tablet>chef:chef">
+      <caption webpage="chef" alt=""/>
+      <caption webpage="chef" alt=""/>
+    </file>
+    <file name="news_1.jpg" crc="3878129951" ref="tablet>news:tablet>news-1:news:news-1">
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news-1" alt=""/>
+      <caption webpage="news-1" alt=""/>
+    </file>
+    <file name="news_2.jpg" crc="3878129951" ref="tablet>news:tablet>news-2:news:news-2">
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news-2" alt=""/>
+      <caption webpage="news-2" alt=""/>
+    </file>
+    <file name="news_3.jpg" crc="3878129951" ref="tablet>news:tablet>news-3:news:news-3">
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news-3" alt=""/>
+      <caption webpage="news-3" alt=""/>
+    </file>
+    <file name="news_1-a.jpg" crc="4264472005" ref="tablet>news-1:news-1">
+      <caption webpage="news-1" alt=""/>
+    </file>
+    <file name="news_1-b.jpg" crc="4264472005" ref="tablet>news-1:news-1">
+      <caption webpage="news-1" alt=""/>
+    </file>
+    <file name="news_1-c.jpg" crc="3774907669" ref="tablet>news-1:news-1">
+      <caption webpage="news-1" alt=""/>
+      <caption webpage="news-1" alt=""/>
+    </file>
+    <file name="news_2-a.jpg" crc="4264472005" ref="tablet>news-2:news-2">
+      <caption webpage="news-2" alt=""/>
+    </file>
+    <file name="news_2-b.jpg" crc="4264472005" ref="tablet>news-2:news-2">
+      <caption webpage="news-2" alt=""/>
+    </file>
+    <file name="news_2-c.jpg" crc="3774907669" ref="tablet>news-2:news-2">
+      <caption webpage="news-2" alt=""/>
+      <caption webpage="news-2" alt=""/>
+    </file>
+    <file name="news_3-a.jpg" crc="4264472005" ref="tablet>news-3:news-3">
+      <caption webpage="news-3" alt=""/>
+    </file>
+    <file name="news_3-b.jpg" crc="4264472005" ref="tablet>news-3:news-3">
+      <caption webpage="news-3" alt=""/>
+    </file>
+    <file name="news_3-c.jpg" crc="3774907669" ref="tablet>news-3:news-3">
+      <caption webpage="news-3" alt=""/>
+      <caption webpage="news-3" alt=""/>
+    </file>
+    <file name="contact_img.jpg" crc="43259706" ref="tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="gallery_1150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_2150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_3150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_4150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_5150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_6150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_7150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_8150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_9150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery_10150x118.jpg" crc="3867453777" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="news_1-u1524-r-fr.png" crc="349256743" ref="news"/>
+    <file name="news_2-u1594-r-fr.png" crc="349256743" ref="news"/>
+    <file name="news_3-u1609-r-fr.png" crc="349256743" ref="news"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3892876511" ref="tablet>gallery:tablet>news-1:tablet>menu:tablet>chef:tablet>news:tablet>news-2:tablet>contact:tablet>events:tablet>index:tablet>about:tablet>news-3"/>
+      <file name="gallery.css" crc="480471828" ref="tablet>gallery"/>
+      <file name="news-1.css" crc="4111491402" ref="tablet>news-1"/>
+      <file name="menu.css" crc="3824966725" ref="tablet>menu"/>
+      <file name="chef.css" crc="9654704" ref="tablet>chef"/>
+      <file name="news.css" crc="3991525774" ref="tablet>news"/>
+      <file name="news-2.css" crc="126082376" ref="tablet>news-2"/>
+      <file name="contact.css" crc="4159896808" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="21288813" ref="tablet>contact"/>
+      <file name="events.css" crc="4213070780" ref="tablet>events"/>
+      <file name="index.css" crc="3888274470" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3828922698" ref="tablet>index"/>
+      <file name="about.css" crc="1255596" ref="tablet>about"/>
+      <file name="news-3.css" crc="293126839" ref="tablet>news-3"/>
+    </folder>
+    <file name="index.html" crc="3901613927" seo="true" mt="1518167595823" redirect="true"/>
+    <file name="about.html" crc="4104404918" seo="true" mt="1518167623507" redirect="true"/>
+    <file name="menu.html" crc="4094182114" seo="true" mt="1518167630387" redirect="true"/>
+    <file name="events.html" crc="293211119" seo="true" mt="1518167595929" redirect="true"/>
+    <file name="gallery.html" crc="4127646546" seo="true" mt="1518167634749" redirect="true"/>
+    <file name="chef.html" crc="4159782302" seo="true" mt="1518167660413" redirect="true"/>
+    <file name="news.html" crc="3765357608" seo="true" mt="1518167640306" redirect="true"/>
+    <file name="news-1.html" crc="3930394251" seo="true" mt="1518167653399" redirect="true"/>
+    <file name="news-2.html" crc="4024324953" seo="true" mt="1518167649961" redirect="true"/>
+    <file name="news-3.html" crc="60740882" seo="true" mt="1518167644579" redirect="true"/>
+    <file name="contact.html" crc="72201859" seo="true" mt="1518167656879" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3881877751" ref="phone>index:phone>events"/>
+      <file name="index.css" crc="51882527" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4994214" ref="phone>index"/>
+      <file name="events.css" crc="391055660" ref="phone>events"/>
+    </folder>
+    <file name="index.html" crc="4003378873" seo="true" mt="1518167689400" redirect="true"/>
+    <file name="events.html" crc="3987281369" seo="true" mt="1518167660257" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="32275657" seo="true" mt="1518167595403" redirect="true"/>
+  <file name="about.html" crc="3931453705" seo="true" mt="1518167623505" redirect="true"/>
+  <file name="events.html" crc="62090434" seo="true" mt="1518167595458" redirect="true"/>
+  <file name="menu.html" crc="4093863394" seo="true" mt="1518167630385" redirect="true"/>
+  <file name="gallery.html" crc="398792337" seo="true" mt="1518167634747" redirect="true"/>
+  <file name="chef.html" crc="306567225" seo="true" mt="1518167660411" redirect="true"/>
+  <file name="news.html" crc="175589136" seo="true" mt="1518167640302" redirect="true"/>
+  <file name="contact.html" crc="50569571" seo="true" mt="1518167656876" redirect="true"/>
+  <file name="news-1.html" crc="3905049288" seo="true" mt="1518167653396" redirect="true"/>
+  <file name="news-2.html" crc="3767592962" seo="true" mt="1518167649959" redirect="true"/>
+  <file name="news-3.html" crc="4289688788" seo="true" mt="1518167644576" redirect="true"/>
+</manifest>
